@@ -40,8 +40,8 @@ Follow these instructions to set up and run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/dynamic-quiz-donation.git
-   cd dynamic-quiz-donation
+   git clone https://github.com/AiOfLautech/Freshers.git
+   cd Freshers
    
 # ✨ Welcome to the Dynamic Quiz and Donation Website ✨
 
@@ -60,7 +60,7 @@ Follow these instructions to set up and run the project locally:
 </p>
 
 <p align="center">
-  <a href="https://AiOfLautech.github.io/dynamic-quiz-donation/" target="_blank">
+  <a href="https://AiOfLautech.github.io/Freshers/" target="_blank">
     <img src="https://via.placeholder.com/200x50?text=Visit+Site" alt="Visit Site" style="filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));">
   </a>
 </p>
