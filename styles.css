@@ -1,0 +1,86 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f0f0;
+    color: #333;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+}
+
+/* Background image and effects */
+body {
+    background-image: url('assets/images/background.png'); /* Placeholder for your background image */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 20px;
+}
+
+.glow-effect {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff;
+}
+
+/* Linear Gradient for Buttons */
+button {
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+/* Shuffling button animation */
+.button-pull {
+    animation: pullInOut 1s ease infinite alternate;
+}
+
+@keyframes pullInOut {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+/* Responsive Course Code Button */
+.course-btn {
+    background: linear-gradient(45deg, #ff7e5f, #feb47b);
+    padding: 15px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.course-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.7);
+}
+
+/* Glowing Background */
+.glowing-background {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.8);
+}
