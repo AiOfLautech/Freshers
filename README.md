@@ -1,13 +1,4 @@
 
----
-
-### Enhancing GitHub Repository with Glow and Animations
-
-To add glowing and animated text on your GitHub repository page:
-
-1. Add the following glowing text and animations directly into your `README.md`:
-
-```markdown
 # ✨ Welcome to the Dynamic Quiz and Donation Website ✨
 
 <p align="center">
