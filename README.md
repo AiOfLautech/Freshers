@@ -1,4 +1,48 @@
+# 🌟 Dynamic Quiz and Donation Website 🌟
 
+Welcome to the Dynamic Quiz and Donation Website repository! This project provides an interactive platform for participants to take quizzes, view results, and make donations seamlessly. The website includes various features that enhance the user experience through animations, responsiveness, and ease of use.
+
+---
+
+## 🔥 Key Features
+
+1. **User Authentication**:
+   - Secure sign-up and login system.
+   - Password reset functionality via email verification.
+
+2. **Interactive Quizzes**:
+   - Shuffled questions and options for each participant.
+   - Timer for each quiz with auto-submission on timeout.
+   - Results displayed with detailed analysis, including a pie chart.
+
+3. **Donation System**:
+   - A glowing, animated donation button that displays bank details upon clicking.
+   - Integrated WhatsApp link for sending receipts directly.
+
+4. **Leaderboard**:
+   - View top scorers for each course with user details.
+
+5. **Responsive Design**:
+   - Fully responsive layout that adapts to any screen size.
+   - Vibrant color schemes with glowing and animated elements.
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to set up and run the project locally:
+
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+- Git (optional, for cloning the repository)
+
+### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/dynamic-quiz-donation.git
+   cd dynamic-quiz-donation
+   
 # ✨ Welcome to the Dynamic Quiz and Donation Website ✨
 
 <p align="center">
@@ -16,7 +60,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-username.github.io/dynamic-quiz-donation/" target="_blank">
+  <a href="https://AiOfLautech.github.io/dynamic-quiz-donation/" target="_blank">
     <img src="https://via.placeholder.com/200x50?text=Visit+Site" alt="Visit Site" style="filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));">
   </a>
 </p>
