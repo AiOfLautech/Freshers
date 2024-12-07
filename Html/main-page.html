@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Dashboard - Course Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="main-container">
+        <header>
+            <h1>Welcome to the Course Website</h1>
+            <nav>
+                <ul>
+                    <li><a href="profile.html">Profile</a></li>
+                    <li><a href="leaderboard.html">Leaderboard</a></li>
+                    <li><a href="tutorials.html">Tutorials</a></li>
+                    <li><a href="logout.html">Logout</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h2>Choose a Course</h2>
+            <div class="courses">
+                <button onclick="location.href='course.html?code=MTH101'">MTH 101</button>
+                <button onclick="location.href='course.html?code=GST101'">GST 101</button>
+                <button onclick="location.href='course.html?code=CHM101'">CHM 101</button>
+                <button onclick="location.href='course.html?code=PHY101'">PHY 101</button>
+                <button onclick="location.href='course.html?code=BIO101'">BIO 101</button>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
