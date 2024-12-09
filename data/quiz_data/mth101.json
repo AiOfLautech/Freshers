@@ -1,1 +1,22 @@
-
+{
+    "courseCode": "MTH101",
+    "title": "Mathematics Quiz",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "question": "What is the derivative of sin(x)?",
+            "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+            "correctAnswer": "cos(x)"
+        },
+        {
+            "question": "Solve: 2x + 5 = 15. What is x?",
+            "options": ["5", "10", "15", "20"],
+            "correctAnswer": "5"
+        },
+        {
+            "question": "What is the integral of 1/x?",
+            "options": ["ln(x)", "x^2", "e^x", "x"],
+            "correctAnswer": "ln(x)"
+        }
+    ]
+}
