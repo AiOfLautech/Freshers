@@ -1,0 +1,22 @@
+{
+    "courseCode": "PHY101",
+    "title": "Physics Quiz",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "question": "What is the speed of light in a vacuum?",
+            "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "100,000 km/s"],
+            "correctAnswer": "300,000 km/s"
+        },
+        {
+            "question": "What is Newton's Second Law of Motion?",
+            "options": ["F = ma", "E = mc^2", "F = mg", "a = v/t"],
+            "correctAnswer": "F = ma"
+        },
+        {
+            "question": "What is the unit of electric current?",
+            "options": ["Volt", "Ohm", "Ampere", "Watt"],
+            "correctAnswer": "Ampere"
+        }
+    ]
+}
