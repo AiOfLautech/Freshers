@@ -1,1 +1,32 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="css/signup.css">
+</head>
+<body>
+    <main>
+        <form id="signup-form">
+            <h2>Create Your Account</h2>
+            <input type="text" id="first-name" placeholder="First Name" required>
+            <input type="text" id="surname" placeholder="Surname" required>
+            <input type="email" id="email" placeholder="Email" required>
+            <input type="text" id="username" placeholder="Username" required>
+            <input type="password" id="password" placeholder="Password" required>
+            <input type="password" id="confirm-password" placeholder="Confirm Password" required>
+            <select id="department" required>
+                <option value="">Select Department</option>
+                <option value="math">Mathematics</option>
+                <option value="physics">Physics</option>
+                <option value="biology">Biology</option>
+                <!-- Add more departments as needed -->
+            </select>
+            <button type="submit">Sign Up</button>
+            <p>Already have an account? <a href="login.html">Login here</a></p>
+        </form>
+    </main>
+    <script src="js/signup.js"></script>
+</body>
+</html>
