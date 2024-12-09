@@ -1,1 +1,27 @@
-
+{
+    "courseCode": "GST111",
+    "title": "General Studies Quiz",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "question": "What is the full meaning of UNESCO?",
+            "options": [
+                "United Nations Education, Science, and Cultural Organization",
+                "Universal Education, Science, and Cultural Organization",
+                "Union of Nations for Education and Cultural Operations",
+                "United Nations for Educational and Cultural Operations"
+            ],
+            "correctAnswer": "United Nations Education, Science, and Cultural Organization"
+        },
+        {
+            "question": "Who is the current Secretary-General of the United Nations?",
+            "options": ["Ban Ki-moon", "Antonio Guterres", "Kofi Annan", "Dag Hammarskjöld"],
+            "correctAnswer": "Antonio Guterres"
+        },
+        {
+            "question": "What year was Nigeria's first constitution adopted?",
+            "options": ["1914", "1960", "1963", "1999"],
+            "correctAnswer": "1963"
+        }
+    ]
+}
