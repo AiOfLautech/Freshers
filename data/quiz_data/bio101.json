@@ -1,1 +1,22 @@
-
+{
+    "courseCode": "BIO101",
+    "title": "Biology Quiz",
+    "timeLimit": 3600,
+    "questions": [
+        {
+            "question": "What is the basic unit of life?",
+            "options": ["Cell", "Tissue", "Organ", "Organism"],
+            "correctAnswer": "Cell"
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi body"],
+            "correctAnswer": "Mitochondria"
+        },
+        {
+            "question": "What is the process by which plants make food?",
+            "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+            "correctAnswer": "Photosynthesis"
+        }
+    ]
+}
