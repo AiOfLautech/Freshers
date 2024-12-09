@@ -1,1 +1,33 @@
 
+[
+    {
+        "courseCode": "MTH101",
+        "courseTitle": "Mathematics 101",
+        "description": "Introduction to basic mathematical concepts.",
+        "quizFile": "mth101.json"
+    },
+    {
+        "courseCode": "GST111",
+        "courseTitle": "General Studies 111",
+        "description": "Understanding civic responsibility.",
+        "quizFile": "gst111.json"
+    },
+    {
+        "courseCode": "PHY101",
+        "courseTitle": "Physics 101",
+        "description": "Foundational principles of physics.",
+        "quizFile": "phy101.json"
+    },
+    {
+        "courseCode": "CHM101",
+        "courseTitle": "Chemistry 101",
+        "description": "Basic concepts in chemistry.",
+        "quizFile": "chm101.json"
+    },
+    {
+        "courseCode": "BIO101",
+        "courseTitle": "Biology 101",
+        "description": "Introduction to biology and life sciences.",
+        "quizFile": "bio101.json"
+    }
+      ]
